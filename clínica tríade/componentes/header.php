@@ -1,8 +1,9 @@
 <header class = "header bg-blue">
         <nav class = "navbar bg-blue">
             <div class = "container flex">
-                <a href = "index.html" class = "navbar-brand">
-                    <img src = "images/logo.png" alt = "site logo">
+                <a href = "index.php" class = "navbar-brand">
+               
+               <img src = "images/logo_clinica_triade.png" alt = "site logo">
                 </a>
                 <button type = "button" class = "navbar-show-btn">
                     <img src = "images/ham-menu-icon.png">
@@ -17,22 +18,24 @@
                             <a href = "#" class = "nav-link">Home</a>
                         </li>
                         <li class = "nav-item">
-                            <a href = "#" class = "nav-link">About</a>
+                            <a href = "#" class = "nav-link">Sobre</a>
                         </li>
                         <li class = "nav-item">
-                            <a href = "#" class = "nav-link">Service</a>
+                            <a href = "#" class = "nav-link">Serviços</a>
                         </li>
                         <li class = "nav-item">
-                            <a href = "#" class = "nav-link">Doctors</a>
+                            <a href = "#" class = "nav-link">Nossa Equipe</a>
                         </li>
+                        <!--
                         <li class = "nav-item">
                             <a href = "#" class = "nav-link">Departments</a>
                         </li>
+                        -->
                         <li class = "nav-item">
                             <a href = "#" class = "nav-link">Blog</a>
                         </li>
                         <li class = "nav-item">
-                            <a href = "#" class = "nav-link">Contact</a>
+                            <a href = "#" class = "nav-link">Contato</a>
                         </li>
                     </ul>
                     <div class = "search-bar">
